@@ -1,0 +1,24 @@
+{
+    "performance_metrics": {
+        "accuracy": 0.625,
+        "precision": 0.625,
+        "recall": 1.0,
+        "f1_score": 0.7692307692307693,
+        "auc_roc": 0.8,
+        "error_rate": 0.375
+    },
+    "inference_metrics": {
+        "avg_inference_time": 0.20847168564796448,
+        "throughput": 4.796814478147642
+    },
+    "resource_utilization": {
+        "bert_model_size": 417.65528106689453,
+        "gpt2_model_size": 486.7002410888672,
+        "memory_usage": 1042.953125
+    },
+    "gpt2_metrics": {
+        "perplexity": 29.90361785888672,
+        "avg_inference_time": 2.1368713080883026,
+        "throughput": 0.46797390007291756
+    }
+}
